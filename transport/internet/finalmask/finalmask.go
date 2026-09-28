@@ -271,8 +271,6 @@ const (
 	UDPSize = 4096
 )
 
-
-
 type headerManagerConn struct {
 	net.PacketConn
 
